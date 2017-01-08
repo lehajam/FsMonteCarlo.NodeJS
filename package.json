@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-web-app1",
+  "version": "0.0.0",
+  "description": "FSMonteCarlo.NodeJS",
+  "main": "server.js",
+  "author": {
+    "name": "Lehajam"
+  },
+  "dependencies": {
+    "request": "^2.79.0",
+    "rethinkdb": "^2.3.3"
+  }
+}
